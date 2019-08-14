@@ -72,7 +72,8 @@ o	C.R.U.D
 -	Integrating Data from various sources
 ### Week 14 – Final Workshop (Nov 19th – 21st)  
 ### Week 14 – NO CLASS (Nov 26th – 28th) Thanksgiving Recess     
-### Week 15 – Final ### Week (Dec 3rd – 5th)
+### Week 15 – Final
+### Week (Dec 3rd – 5th)
 -	Final Workshop
 -	Final Presentation Dec 5th
 
