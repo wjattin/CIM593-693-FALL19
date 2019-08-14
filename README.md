@@ -25,9 +25,9 @@
 -	GET and POST requests overview (client side)
 ### Week 3 – Introduction to Server-Side scripting (Sept 3rd – 5th) 
 -	Setting up the Work Environment with XAMPP
-o	Apache overview
-o	MySQL overview
-o	PHP overview
+-	Apache overview
+-	MySQL overview
+-	PHP overview
 -	Variables and Data Types (String, Arrays overview, Objects overview)
 -	Sessions
 -	Cookies
@@ -45,8 +45,8 @@ o	PHP overview
 ### Week 6 – PHP, MySQL and ORM (Sept 24th – 26th)  
 -	The Object-Relational Model
 -	PHP – MySQL Operations
-o	Using MySQLi
-o	C.R.U.D
+-	Using MySQLi
+-	C.R.U.D
 ### Week 7 – Developing Applications I (Oct 1st – 3rd)  
 -	Midterm Discussion/Proposal
 -	CSS, Styling, Introduction to Bootstrap
